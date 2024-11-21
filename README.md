@@ -26,3 +26,6 @@ This interactive dashboard provides an insightful analysis of electric vehicle (
 **Purpose**<br>
 This project aims to assist stakeholders in the electric vehicle ecosystem—manufacturers, policymakers, and researchers—in understanding market dynamics and identifying areas for improvement or investment.
 
+**Acknowledgments 🙏**<br>
+This project was inspired by tutorials from the Data Tutorials YouTube channel.A big thank you to them for sharing such educational and motivating resources!
+
